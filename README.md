@@ -1,4 +1,4 @@
-##Como executar
+## Como executar
 
 Para rodar o projeto, basta ter as dependencias instaladas [package.json] e executar o comando npm start dentro do pacote do projeto.
 
